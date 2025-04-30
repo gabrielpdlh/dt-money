@@ -31,6 +31,30 @@
       "type": "income",
       "createdAt": "2025-04-30T02:24:40.149Z",
       "id": 4
+    },
+    {
+      "description": "teste",
+      "price": 12,
+      "category": "Alimentacao",
+      "type": "income",
+      "createdAt": "2025-04-30T23:15:05.270Z",
+      "id": 5
+    },
+    {
+      "description": "13123",
+      "price": 1313,
+      "category": "23131",
+      "type": "income",
+      "createdAt": "2025-04-30T23:15:19.656Z",
+      "id": 6
+    },
+    {
+      "description": "iogurte",
+      "price": 12,
+      "category": "Alimentacao",
+      "type": "outcome",
+      "createdAt": "2025-04-30T23:26:31.408Z",
+      "id": 7
     }
   ]
 }
