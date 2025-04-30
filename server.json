@@ -15,6 +15,22 @@
       "category": "alimentacao",
       "price": 50,
       "createdAt": "2025-04-29T01:30:27.902Z"
+    },
+    {
+      "description": "teste",
+      "price": 12,
+      "category": "cuida",
+      "type": "income",
+      "createdAt": "2025-04-30T02:24:31.240Z",
+      "id": 3
+    },
+    {
+      "description": "123123",
+      "price": 123123,
+      "category": "1312",
+      "type": "income",
+      "createdAt": "2025-04-30T02:24:40.149Z",
+      "id": 4
     }
   ]
 }
